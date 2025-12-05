@@ -1,0 +1,1 @@
+* * * * * /usr/local/bin/python /app/decrypt.py >> /cron/cron.log 2>&1
